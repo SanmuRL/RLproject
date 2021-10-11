@@ -1,0 +1,3 @@
+ Episode   Epsilon     MeanReward       MeanLoss      MeanLoss1      MeanLoss2      MeanValue      TimeDelta                Time
+       0     0.000        105.946          0.000          0.000          0.000         73.916         28.238 2021-10-05T23:08:58
+       1     0.000        107.974          0.000          0.000          0.000         73.874         20.873 2021-10-05T23:09:19
